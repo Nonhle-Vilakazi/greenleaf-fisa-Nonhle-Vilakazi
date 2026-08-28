@@ -1,5 +1,5 @@
 plant_name = "Spekboom"  # string
-quantity = 45  # int
+quantity = 25  # int
 unit_price = 35.00  # float
 in_stock = True  # boolean
 plant_list = ["Spekboom", "Aloe Vera", "Fever Tree", "Plumbago"]  # list
